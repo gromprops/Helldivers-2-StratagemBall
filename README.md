@@ -23,20 +23,22 @@ Welcome to the Stratagem Ball Readme! This interactive cosplay prop is inspired 
 2.  **Charging**
     
     -   Plug in a USB-C cable to the port labeled **USB-C**.
-        
     -   A **red LED** next to the port will turn on while charging.
-        
     -   The light turns off when fully charged.
         
 3.  **Powering On/Off**
     
     -   Toggle the switch labeled **PWR** _toward_ the USB-C port to turn the device **on**.
-        
     -   A **green LED** next to the switch will glow when powered.
 
 ## **Wireless Paired Mode** (_with Stratagem Tacpad_)
 
 This mode lets the Stratagem Ball react to Stratagem entries on your Tacpad.
+
+#### Requirements
+
+-   Stratagem Tacpad with wireless module installed (See _insert link here_ for installation instructions)
+-   Tacpad firmware **V1.2 or later**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzMyOTg0NV19
+eyJoaXN0b3J5IjpbLTk0NDQyMTA0N119
 -->

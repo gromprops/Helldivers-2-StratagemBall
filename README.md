@@ -54,6 +54,10 @@ This mode lets the Stratagem Ball react to Stratagem entries on your Tacpad.
 
 #### Pairing Instructions
 
+1. Enter a Stratagem on your Tacpad.
+2. The Ball will glow in the Stratagem’s color and await activation.
+3. Press the **top button** on the Ball complete the activation sequence.
+ 4. The Ball will light up fully and open*, then reset after a few seconds.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTI0MTU4OF19
+eyJoaXN0b3J5IjpbMTIxNzU3OTg1MF19
 -->

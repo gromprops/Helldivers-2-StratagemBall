@@ -38,7 +38,7 @@ This mode lets the Stratagem Ball react to Stratagem entries on your Tacpad.
 
 #### Requirements
 
--   Stratagem Tacpad with wireless module installed (See _insert link here_ for installation instructions)
+-   Stratagem Tacpad with wireless module installed (See [_insert link here_](https://github.com/gromprops/Helldivers-2-Stratagem-Tacpad#wireless-module-installation) for installation instructions)
 -   Tacpad firmware **V1.2 or later**
 
 #### Pairing Instructions
@@ -84,6 +84,6 @@ Use this mode without a Tacpad—just for fun lighting and activation effects.
 -   **Button unresponsive?**  
     Ensure you’re in the correct mode (Paired or Standalone). Reset the Ball if needed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTIyOTIxMCw0NTEyNjc3OTgsLTEzOD
-c4ODgzNV19
+eyJoaXN0b3J5IjpbLTUwMjcyNTA4MCwyMTI1MjI5MjEwLDQ1MT
+I2Nzc5OCwtMTM4Nzg4ODM1XX0=
 -->

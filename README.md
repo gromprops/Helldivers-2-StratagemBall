@@ -12,8 +12,8 @@ Welcome to the Stratagem Ball Readme! This interactive cosplay prop is inspired 
 **Safety & Care Instructions**
 
 -   Keep the Stratagem Ball dry and away from extreme heat.
--  The Stratagem Ball uses a
--   DO NOT throw the Stratagem Ball. There are delicate electronics and mechanical parts that may be damaged by impact.
+-  The Stratagem Ball uses a motor to open and close - do not force the Ball open/close against the motor.
+-   DO NOT throw the Stratagem Ball. The delicate electronics and mechanical parts that may be damaged by impact.
 -   Avoid charging the device for more than 24 hours at a time, as this can potentially degrade the battery life.
 
 ## **Powering the Stratagem Ball**
@@ -52,5 +52,5 @@ This mode lets the Stratagem Ball react to Stratagem entries on your Tacpad.
 4.  After a few seconds, the Tacpad will say **“Pairing Success”**
 5.  Power off and on the Stratagem Ball to complete setup.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4Njg5NDBdfQ==
+eyJoaXN0b3J5IjpbLTMwMTY5NjgzOF19
 -->

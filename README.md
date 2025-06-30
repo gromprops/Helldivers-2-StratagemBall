@@ -13,7 +13,7 @@ Welcome to the Stratagem Ball Readme! This interactive cosplay prop is inspired 
 
 -   Keep the Stratagem Ball dry and away from extreme heat.
 -  The Stratagem Ball uses a motor to open and close - do not force the Ball open/close against the motor.
--   DO NOT throw the Stratagem Ball. The delicate electronics and mechanical parts may be damaged by impact.
+-   **_DO NOT_** throw the Stratagem Ball. The delicate electronics and mechanical parts may be damaged by impact.
 -   Avoid charging the device for more than 24 hours at a time, as this can potentially degrade the battery life.
 
 ## **Powering the Stratagem Ball**
@@ -24,13 +24,13 @@ Welcome to the Stratagem Ball Readme! This interactive cosplay prop is inspired 
 2.  **Charging**
     
     -   Plug in a USB-C cable to the port labeled **USB-C**.
-    -   A **red LED** next to the port will turn on while charging.
+    -   A **red light** next to the port will turn on while charging.
     -   The light turns off when fully charged.
         
 3.  **Powering On/Off**
     
     -   Toggle the switch labeled **PWR** _toward_ the USB-C port to turn the device **on**.
-    -   A **green LED** next to the switch will glow when powered.
+    -   A **green light** next to the switch will glow when powered.
 
 ## **Wireless Paired Mode** (_with Stratagem Tacpad_)
 
@@ -84,5 +84,6 @@ Use this mode without a Tacpad—just for fun lighting and activation effects.
 -   **Button unresponsive?**  
     Ensure you’re in the correct mode (Paired or Standalone). Reset the Ball if needed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxMjY3Nzk4LC0xMzg3ODg4MzVdfQ==
+eyJoaXN0b3J5IjpbMjEyNTIyOTIxMCw0NTEyNjc3OTgsLTEzOD
+c4ODgzNV19
 -->

@@ -59,9 +59,22 @@ This mode lets the Stratagem Ball react to Stratagem entries on your Tacpad.
 3. Press the **top button** on the Ball complete the activation sequence. **_DO NOT ACTUALLY THROW THE BALL._**
  4. The Ball will open and light up fully, then reset after a few seconds.
 
-## **Wireless Paired Mode** (_with Stratagem Tacpad_)
+## **Standalone Mode**
 
-This mode lets the Stratagem Ball react to Stratagem entries on your Tacpad.
+Use this mode without a Tacpad—just for fun lighting and activation effects.
+
+####  Enabling Standalone Mode
+
+1.  Turn on the Stratagem Ball.
+2.  Press and **hold the top button** until the lights **flash yellow**.
+
+####  Using Standalone Mode
+
+-   Press the **top button** to cycle through different Stratagem color effects:
+- First, a “priming” light with the Ball closed
+   -   Then, the Ball opens and glows brightly
+        
+-   After going through all effects, one more press resets the Ball to standby.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTMyNDg2N119
+eyJoaXN0b3J5IjpbNTYxNDM4MDddfQ==
 -->

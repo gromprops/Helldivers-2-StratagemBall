@@ -52,12 +52,16 @@ This mode lets the Stratagem Ball react to Stratagem entries on your Tacpad.
 4.  After a few seconds, the Tacpad will say **“Pairing Success”**
 5.  Power off and on the Stratagem Ball to complete setup.
 
-#### Pairing Instructions
+#### Using in Paired Mode
 
 1. Enter a Stratagem on your Tacpad.
 2. The Ball will glow in the Stratagem’s color and await activation.
-3. Press the **top button** on the Ball complete the activation sequence.
- 4. The Ball will light up fully and open*, then reset after a few seconds.
+3. Press the **top button** on the Ball complete the activation sequence. **_DO NOT ACTUALLY THROW THE BALL._**
+ 4. The Ball will open and light up fully, then reset after a few seconds.
+
+## **Wireless Paired Mode** (_with Stratagem Tacpad_)
+
+This mode lets the Stratagem Ball react to Stratagem entries on your Tacpad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzU3OTg1MF19
+eyJoaXN0b3J5IjpbLTY4NTMyNDg2N119
 -->

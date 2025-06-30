@@ -32,7 +32,11 @@ Welcome to the Stratagem Ball Readme! This interactive cosplay prop is inspired 
     
     -   Toggle the switch labeled **PWR** _toward_ the USB-C port to turn the device **on**.
         
-    -   A **green light** under the switch will glow when powered.
+    -   A **green LED** next to the switch will glow when powered.
+
+## **Wireless Paired Mode** (_with Stratagem Tacpad_)
+
+This mode lets the Stratagem Ball react to Stratagem entries on your Tacpad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTg2MDMxNjhdfQ==
+eyJoaXN0b3J5IjpbMTExMzMyOTg0NV19
 -->

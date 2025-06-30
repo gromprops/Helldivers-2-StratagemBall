@@ -39,6 +39,17 @@ This mode lets the Stratagem Ball react to Stratagem entries on your Tacpad.
 
 -   Stratagem Tacpad with wireless module installed (See _insert link here_ for installation instructions)
 -   Tacpad firmware **V1.2 or later**
+
+#### Pairing Instructions
+
+1.  **Turn on** the Stratagem Ball using the PWR switch.
+2.  Press and hold the button labeled “PAIR” until the Ball opens and upper lights show a **spinning blue animation**
+3.  On your **Tacpad**:
+    -   Go to **Settings**
+    -   Enable **Stratagem Ball support**
+    -   Press the **pairing button**
+4.  After a few seconds, the Tacpad will say **“Pairing Success”**
+5.  Power **off and on** the Stratagem Ball to complete setup.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDQyMTA0N119
+eyJoaXN0b3J5IjpbMTQ0NzQxMjM3MV19
 -->

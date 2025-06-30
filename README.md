@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Stratagem Ball Readme! This interactive cosplay prop is inspired by the Helldivers games. It simulates the in-game process of calling in support Stratagems with arrow-key commands. This readme will guide you through operation and troubleshooting.
+Welcome to the Stratagem Ball Readme! This interactive cosplay prop is inspired by the Helldivers games. It simulates the in-game Stratagem beacon with lights and a self-open/close mechanism. This readme will guide you through operation and troubleshooting.
 
 **Please Note:**
 
@@ -13,7 +13,7 @@ Welcome to the Stratagem Ball Readme! This interactive cosplay prop is inspired 
 
 -   Keep the Stratagem Ball dry and away from extreme heat.
 -  The Stratagem Ball uses a motor to open and close - do not force the Ball open/close against the motor.
--   DO NOT throw the Stratagem Ball. The delicate electronics and mechanical parts that may be damaged by impact.
+-   DO NOT throw the Stratagem Ball. The delicate electronics and mechanical parts may be damaged by impact.
 -   Avoid charging the device for more than 24 hours at a time, as this can potentially degrade the battery life.
 
 ## **Powering the Stratagem Ball**
@@ -51,6 +51,9 @@ This mode lets the Stratagem Ball react to Stratagem entries on your Tacpad.
     -   Press the **pairing button**
 4.  After a few seconds, the Tacpad will say **“Pairing Success”**
 5.  Power off and on the Stratagem Ball to complete setup.
+
+#### Pairing Instructions
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTY5NjgzOF19
+eyJoaXN0b3J5IjpbMTMwMTI0MTU4OF19
 -->

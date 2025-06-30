@@ -18,9 +18,9 @@ Welcome to the Stratagem Ball Readme! This interactive cosplay prop is inspired 
 
 **Safety & Care Instructions**
 
--   Keep the Tacpad dry and away from extreme heat.
--   Avoid dropping the device, as it may damage internal electronics.
+-   Keep the Stratagem Ball dry and away from extreme heat.
+-   DO NOT throw the Stratagem Ball. There are delicate electronics and mechanical parts that may be dama
 -   Avoid charging the device for more than 24 hours at a time, as this can potentially degrade the battery life.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQ4NzQ5OTJdfQ==
+eyJoaXN0b3J5IjpbLTEyMzM3OTYyNTZdfQ==
 -->

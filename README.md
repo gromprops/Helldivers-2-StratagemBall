@@ -19,8 +19,8 @@ Welcome to the Stratagem Ball Readme! This interactive cosplay prop is inspired 
 **Safety & Care Instructions**
 
 -   Keep the Stratagem Ball dry and away from extreme heat.
--   DO NOT throw the Stratagem Ball. There are delicate electronics and mechanical parts that may be dama
+-   DO NOT throw the Stratagem Ball. There are delicate electronics and mechanical parts that may be damaged by impact.
 -   Avoid charging the device for more than 24 hours at a time, as this can potentially degrade the battery life.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM3OTYyNTZdfQ==
+eyJoaXN0b3J5IjpbLTI0MjEyNzkxMV19
 -->

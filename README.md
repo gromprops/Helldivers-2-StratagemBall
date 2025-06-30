@@ -84,8 +84,8 @@ Use this mode without a Tacpad—just for fun lighting and activation effects.
 -   **Button unresponsive?**  
     Ensure you’re in the correct mode (Paired or Standalone). Reset the Ball if needed.
 -   **Ball activating without input?**
-	There might be another Helldiver paired on the same channel. Cha
+	There might be another Helldiver paired on the same channel. Try changing the channel on your Stratagem Ball and re-pairing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY0MTU2MjksLTE4MDkwNTU3NDIsMj
-EyNTIyOTIxMCw0NTEyNjc3OTgsLTEzODc4ODgzNV19
+eyJoaXN0b3J5IjpbLTgyNjI3ODEzOSwtMTgwOTA1NTc0MiwyMT
+I1MjI5MjEwLDQ1MTI2Nzc5OCwtMTM4Nzg4ODM1XX0=
 -->

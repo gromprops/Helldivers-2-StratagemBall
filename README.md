@@ -83,7 +83,9 @@ Use this mode without a Tacpad—just for fun lighting and activation effects.
     Make sure the Ball is charged and the green light is on.
 -   **Button unresponsive?**  
     Ensure you’re in the correct mode (Paired or Standalone). Reset the Ball if needed.
+-   **Ball activating without input?**
+	There might be another Helldiver paired on the same channel. Cha
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDkwNTU3NDIsMjEyNTIyOTIxMCw0NT
-EyNjc3OTgsLTEzODc4ODgzNV19
+eyJoaXN0b3J5IjpbLTEwNjY0MTU2MjksLTE4MDkwNTU3NDIsMj
+EyNTIyOTIxMCw0NTEyNjc3OTgsLTEzODc4ODgzNV19
 -->

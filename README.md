@@ -66,15 +66,23 @@ Use this mode without a Tacpad—just for fun lighting and activation effects.
 ####  Enabling Standalone Mode
 
 1.  Turn on the Stratagem Ball.
-2.  Press and **hold the top button** until the lights **flash yellow**.
+2.  Press and **hold the top button** until the lights momentarily **flash yellow**.
 
 ####  Using Standalone Mode
 
 -   Press the **top button** to cycle through different Stratagem color effects:
-- First, a “priming” light with the Ball closed
-   -   Then, the Ball opens and glows brightly
-        
+	-   First, a “priming” light with the Ball closed
+	-   Then, the Ball opens and glows brightly
 -   After going through all effects, one more press resets the Ball to standby.
+
+## **Troubleshooting**
+
+-   **Ball won’t pair?**  
+    Try turning the power off and on, then restart the pairing steps.
+-   **Lights not working?**  
+    Make sure the Ball is charged and the green light is on.
+-   **Button unresponsive?**  
+    Ensure you’re in the correct mode (Paired or Standalone). Reset the Ball if needed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxNDM4MDddfQ==
+eyJoaXN0b3J5IjpbLTEzODc4ODgzNV19
 -->

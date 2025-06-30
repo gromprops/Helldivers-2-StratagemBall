@@ -1,7 +1,26 @@
 # Helldivers 2 Stratagem Ball
 
+## Introduction
 
-This repository hosts the user manual and documentation for the Stratagem Ball—an interactive cosplay prop inspired by Helldivers.
+Welcome to the Stratagem Ball Readme! This interactive cosplay prop is inspired by the Helldivers games. It simulates the in-game process of calling in support Stratagems with arrow-key commands. This readme will guide you through operation and troubleshooting.
+
+**Please Note:**
+
+-   This device is a fan-made replica and is not official Helldivers merchandise.
+-   Read through all instructions before operation.
+
+**Table of Contents**
+
+1.  Safety & Care Instructions
+2.  Features and Operation
+3.  Maintenance & Troubleshooting
+4.  Support
+
+**Safety & Care Instructions**
+
+-   Keep the Tacpad dry and away from extreme heat.
+-   Avoid dropping the device, as it may damage internal electronics.
+-   Avoid charging the device for more than 24 hours at a time, as this can potentially degrade the battery life.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzM0OTMyODddfQ==
+eyJoaXN0b3J5IjpbLTE1NDQ4NzQ5OTJdfQ==
 -->

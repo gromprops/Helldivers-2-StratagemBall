@@ -78,11 +78,11 @@ Use this mode without a Tacpad—just for fun lighting and activation effects.
 ## **Troubleshooting**
 
 -   **Ball won’t pair?**  
-    Try turning the power off and on, then restart the pairing steps.
+    Ensure that the Tacpad wireless module is properly installed. Power cycle both devices, then retry the pairing steps.
 -   **Lights not working?**  
     Make sure the Ball is charged and the green light is on.
 -   **Button unresponsive?**  
     Ensure you’re in the correct mode (Paired or Standalone). Reset the Ball if needed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODc4ODgzNV19
+eyJoaXN0b3J5IjpbNDUxMjY3Nzk4LC0xMzg3ODg4MzVdfQ==
 -->
